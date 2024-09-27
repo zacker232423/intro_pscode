@@ -2,3 +2,10 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+start
+output this progam counts the amount of items put in a package by scanning
+NUM = 0 
+loop 25x
+add 2 to NUM
+loop
+once finished looping end program and output this package is full 

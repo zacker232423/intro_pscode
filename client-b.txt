@@ -1,4 +1,15 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+start
+chose destination in warehouse 
+destination north east corner 
+starting location middle bottom 
+loop 10x
+move north 
+loop
+loop 10x
+move east 
+loop
+output destination reached
+end

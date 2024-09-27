@@ -1,4 +1,13 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+start
+output this a guess the number between 1 and 10 within 3 guess 
+generate number between 1 and 10 as NUM 
+prompt user to guess a number between 1 and 10
+loop 3x
+if incorrect output this isn't the correct number and allow user to input number  
+if correct output congrats you guessed the number correctly and stop program
+end loop
+if not guessed correctly output sorry you didn't guess the number correctly in 3 guesses the number is NUM
+stop
